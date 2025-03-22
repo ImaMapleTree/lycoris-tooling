@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CShader", "CShader\CShader.csproj", "{4DEEA8F0-FF6E-452C-8589-6EC9B542CA42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DEEA8F0-FF6E-452C-8589-6EC9B542CA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEEA8F0-FF6E-452C-8589-6EC9B542CA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEEA8F0-FF6E-452C-8589-6EC9B542CA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEEA8F0-FF6E-452C-8589-6EC9B542CA42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
